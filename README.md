@@ -23,9 +23,6 @@
 
 ## 📊 Snapshot
 <p>
-  <img src="https://streak-stats.demolab.com?user=souravas" alt="GitHub streak"/>
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravas&layout=compact" alt="Top languages"/>
 </p>
 

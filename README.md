@@ -23,7 +23,7 @@
 
 ## 📊 Snapshot
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=souravas" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=souravas" alt="GitHub streak"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravas&layout=compact" alt="Top languages"/>

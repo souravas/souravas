@@ -54,10 +54,6 @@ I build reliable backends—clean REST APIs, efficient SQL, and fast services—
 
 ## 📊 Snapshot
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=souravas&show_icons=true&hide_title=true" alt="GitHub stats"/>
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravas&layout=compact" alt="Top languages"/>
 </p>
 

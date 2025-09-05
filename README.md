@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.souravas.com"><img alt="Website" src="https://img.shields.io/badge/Website-souravas.com-informational?style=flat&logo=firefox-browser"></a>
   <a href="mailto:souravas007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-souravas007%40gmail.com-informational?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/souravas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/souravas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-souravas-informational?style=flat&logo=linkedin"></a>
   <img alt="Open to Opportunities" src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Hybrid%20%7C%20On--site-success?style=flat">
 </p>
 

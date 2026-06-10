@@ -4,7 +4,7 @@
 
 Senior Software Engineer focused on backend systems, APIs, data workflows, and operationally reliable software.
 
-Based in India. Open to remote, hybrid, and on-site opportunities.
+Based in India.
 
 [![Website](https://img.shields.io/badge/Website-souravas.com-informational?style=flat&logo=firefox-browser)](https://www.souravas.com)
 [![Email](https://img.shields.io/badge/Email-souravas007%40gmail.com-informational?style=flat&logo=gmail)](mailto:souravas007@gmail.com)
@@ -19,7 +19,7 @@ Based in India. Open to remote, hybrid, and on-site opportunities.
 
 ## Recent Impact
 
-- **Tata 1mg:** Built a QR-based SKU tracking system that reduced turnaround time by 1.3 hours, cut QC manpower by 53%, and saved about INR 5 lakhs per month.
+- **Tata 1mg:** Built a QR-based SKU tracking system that reduced turnaround time by 1.3 hours, cut QC manpower by 53%, and saved about ₹500K (~$6K) per month.
 - **Tata 1mg:** Implemented real-time QR validation and SSE-based order assignment, reducing errors by 25% and picker idle time by 40%.
 - **Tata Health:** Shipped an idempotent DB migration tool that reduced DevOps tickets by 70% and improved service reliability.
 - **Pelatro:** Built internal tooling and configuration-driven ETL pipelines that reduced manual setup by 80% and shortened development time by 60%.

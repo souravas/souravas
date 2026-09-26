@@ -7,7 +7,7 @@ Senior Software Engineer focused on backend systems, APIs, data workflows, and o
 Based in India.
 
 [![Website](https://img.shields.io/badge/Website-souravas.com-informational?style=flat&logo=firefox-browser)](https://www.souravas.com)
-[![Email](https://img.shields.io/badge/Email-souravas007%40gmail.com-informational?style=flat&logo=gmail)](mailto:souravas007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello.souravas%40gmail.com-informational?style=flat&logo=gmail)](mailto:hello.souravas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-souravas-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/souravas/)
 ![Open to opportunities](https://img.shields.io/badge/Open%20to-Remote%20%7C%20Hybrid%20%7C%20On--site-success?style=flat)
 
@@ -54,6 +54,6 @@ Based in India.
 </picture>
 
 ## Connect
-If you're hiring, collaborating, or just want to talk backend engineering, reach out via [email](mailto:souravas007@gmail.com), [LinkedIn](https://www.linkedin.com/in/souravas/), or [souravas.com](https://www.souravas.com).
+If you're hiring, collaborating, or just want to talk backend engineering, reach out via [email](mailto:hello.souravas@gmail.com), [LinkedIn](https://www.linkedin.com/in/souravas/), or [souravas.com](https://www.souravas.com).
 
 

@@ -1,4 +1,4 @@
-﻿<!-- GitHub profile README for the `souravas` account -->
+<!-- GitHub profile README for the `souravas` account -->
 
 # Hi, I'm Sourav
 
@@ -28,7 +28,7 @@ Based in India.
 
 ## Projects
 
-- **[Reddit Profile Unhider](https://github.com/souravas/reddit-profile-unhider):** Chrome and Firefox extension that reveals posts and comments on hidden Reddit profiles using archived data. [390+ users on the Chrome Web Store](https://chromewebstore.google.com/detail/reddit-profile-unhider/apcnakinkkhopllilmienljcgmaaigld).
+- **[Reddit Profile Unhider](https://github.com/souravas/reddit-profile-unhider):** Chrome and Firefox extension that reveals posts and comments on hidden Reddit profiles using archived data. [400+ users on the Chrome Web Store](https://chromewebstore.google.com/detail/reddit-profile-unhider/apcnakinkkhopllilmienljcgmaaigld).
 - **[Ember](https://github.com/souravas/ember-pomodoro-timer):** Pomodoro timer for Chrome with focus stats and site blocking. No accounts, no tracking. [Chrome Web Store](https://chromewebstore.google.com/detail/jfcemebmihkhedalgindnekhoieennpe).
 - **[Tab Reload Timer](https://github.com/souravas/tab-reload-timer):** Per-tab auto-reload with random variation and a badge countdown. [Chrome Web Store](https://chromewebstore.google.com/detail/doahmkabobmpmljfflcdfdnlfolokfgd).
 
